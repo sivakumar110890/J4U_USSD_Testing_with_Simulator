@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="J4U USSD">
+  <test name="J4U Town" preserve-order="true">
+  <groups>
+  <run>
+  <include name="VoiceValid"></include>
+  <include name="VoiceInvalid"></include>
+  </run>
+  </groups>
+    <classes>
+      <class name="testNGAutomation.TC_J4U_VOICE_DATA_INTEGRATED">        
+        </class>
+    </classes>
+  </test>
+</suite>

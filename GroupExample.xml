@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="J4U USSD">
+  <test name="J4U Town" preserve-order="true">
+    <classes>
+      <class name="testNGAutomation.TC_J4U_TOWN_NO_OFFERS">        
+      <methods>
+    <include name="NoOffers" invocationCount="5" />
+      </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

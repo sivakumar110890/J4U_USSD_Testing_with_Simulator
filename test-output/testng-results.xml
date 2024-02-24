@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T11:47:08 IST" name="Default suite" finished-at="2023-11-28T11:51:37 IST" duration-ms="269090">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T11:47:08 IST" name="Default test" finished-at="2023-11-28T11:51:37 IST" duration-ms="269090">
+      <class name="testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER">
+        <test-method signature="One()[pri:1, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:47:08 IST" name="One" finished-at="2023-11-28T11:47:31 IST" duration-ms="23544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- One -->
+        <test-method signature="Two()[pri:2, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:47:31 IST" name="Two" finished-at="2023-11-28T11:47:59 IST" duration-ms="28122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Two -->
+        <test-method signature="Three()[pri:3, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:47:59 IST" name="Three" finished-at="2023-11-28T11:48:28 IST" duration-ms="28278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Three -->
+        <test-method signature="Four()[pri:4, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:48:28 IST" name="Four" finished-at="2023-11-28T11:48:47 IST" duration-ms="18956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Four -->
+        <test-method signature="Five()[pri:5, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:48:47 IST" name="Five" finished-at="2023-11-28T11:49:06 IST" duration-ms="18914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Five -->
+        <test-method signature="Six()[pri:6, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:49:06 IST" name="Six" finished-at="2023-11-28T11:49:25 IST" duration-ms="18939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Six -->
+        <test-method signature="Seven()[pri:7, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:49:25 IST" name="Seven" finished-at="2023-11-28T11:49:43 IST" duration-ms="18975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seven -->
+        <test-method signature="Eight()[pri:8, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:49:43 IST" name="Eight" finished-at="2023-11-28T11:50:02 IST" duration-ms="18963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Eight -->
+        <test-method signature="Nine()[pri:9, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:50:02 IST" name="Nine" finished-at="2023-11-28T11:50:21 IST" duration-ms="18844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nine -->
+        <test-method signature="Ten()[pri:10, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:50:21 IST" name="Ten" finished-at="2023-11-28T11:50:40 IST" duration-ms="18814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ten -->
+        <test-method signature="Eleven()[pri:11, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:50:40 IST" name="Eleven" finished-at="2023-11-28T11:50:59 IST" duration-ms="18828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Eleven -->
+        <test-method signature="Twelve()[pri:12, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:50:59 IST" name="Twelve" finished-at="2023-11-28T11:51:18 IST" duration-ms="18946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Twelve -->
+        <test-method signature="Thirteen()[pri:13, instance:testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER@6221a451]" started-at="2023-11-28T11:51:18 IST" name="Thirteen" finished-at="2023-11-28T11:51:37 IST" duration-ms="18883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Thirteen -->
+      </class> <!-- testNgWithoutSocial.TC_5_1_J4U_TOWN_ONE_OFFER -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
